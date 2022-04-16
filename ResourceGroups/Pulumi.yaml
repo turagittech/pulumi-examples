@@ -1,0 +1,6 @@
+name: ResourceGroups
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Resource Groups to build Azure

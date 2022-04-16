@@ -1,0 +1,6 @@
+name: Networks
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Networks for Azure Services
